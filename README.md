@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dongvt
-- 👀 I’m interested in JavaScript projects
-- 🌱 I’m currently learning Java, JavaSscript frameworks like React, Angular, Vue, etc
-- 💞️ I’m looking to collaborate on my daily challenge bot for discord!
+- 👀 I’m interested in low level design and emulation
+- 🌱 I’m using Java, and JavaScript as long as cloud knowledge in my daily work.
+- 💞️ I’m looking to collaborate on pretty much any project, you might want to check my current projects.
 
 <!---
 dongvt/dongvt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
